@@ -6,4 +6,4 @@ I'm a junior at Yale studying Electrical Engineering and Computer Science, with 
 
 🛰️ This summer, I interned as a Software Engineer at Televiaducto, integrating large-scale billing and monitoring systems, and prototyping AI agents for diagnostics.
 
-🦴 Last year I worked on Encore (now avalible on Steam) a narrative rhythm game where I built the custom dialogue enginer! I also worked on Boola Dash, a Yale-themed side-scrolling platformer game was made in collaboration with the Yale Alumni Fund!
+🦴 Last year I worked on Encore! (now avalible on Steam) a narrative rhythm game where I built the custom dialogue enginer! I also worked on Boola Dash, a Yale-themed side-scrolling platformer game was made in collaboration with the Yale Alumni Fund!
